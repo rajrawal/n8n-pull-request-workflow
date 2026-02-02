@@ -1,4 +1,4 @@
-# Hi, I'm raj
+# Hi, I'm raj rawal
 def print_board(board):
    for row in board:
        print(" | ".join(row))
